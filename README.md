@@ -1,2 +1,2 @@
 # DigitaalSterk
-Digitaal sterk: prompten, mediawijsheid en veilig onine voor studenten hoger onderwijs
+Digitaal sterk: prompten, mediawijsheid en veilig online voor studenten hoger onderwijs
